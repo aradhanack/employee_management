@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "Employee": 3334
+  },
+  "models": {
+    "Employee": {
+      "1": "{\"id\":1,\"firstName\":\"Shashikala\",\"lastName\":\"P K\",\"email\":\"pkshashikala@gmail.com\",\"address\":\"Vijaya Nivas\"}",
+      "111": "{\"id\":111,\"firstName\":\"Usuf\",\"lastName\":\"Khan\",\"email\":\"khan@gmail.com\",\"address\":\"Khanvilla\"}",
+      "112": "{\"id\":112,\"firstName\":\"midhun\",\"lastName\":\"string\",\"email\":\"string\",\"address\":\"string\"}",
+      "114": "{\"id\":114,\"firstName\":\"Aru\",\"lastName\":\"Aru\",\"email\":\"Aru\",\"address\":\"Aru\"}",
+      "3333": "{\"id\":3333,\"firstName\":\"Aradhana\",\"lastName\":\"ck\",\"email\":\"sss\",\"address\":\"yyy\"}"
+    }
+  }
+}
